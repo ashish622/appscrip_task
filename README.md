@@ -22,11 +22,9 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/ashish622/appscrip_task.git
 
-   ```bash
+
   cd appscrip_task
 
-  ```bash
   flutter pub get
 
-```bash
   flutter run
