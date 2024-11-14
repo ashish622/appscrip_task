@@ -20,4 +20,13 @@ Ensure you have the following installed:
    Use the following command to clone the project repository:
 
    ```bash
-   git clone https://github.com/your-username/appscrip_task.git
+   git clone https://github.com/ashish622/appscrip_task.git
+
+   ```bash
+  cd appscrip_task
+
+  ```bash
+  flutter pub get
+
+```bash
+  flutter run
