@@ -23,8 +23,14 @@ Ensure you have the following installed:
    git clone https://github.com/ashish622/appscrip_task.git
 
 
-  cd appscrip_task
+2. move to project base direcetory
+   ```bash
+   cd appscrip_task
 
-  flutter pub get
+3. install dependencies
+   ```bash
+   flutter pub get
 
-  flutter run
+4. run project
+   ```bash
+   flutter run
